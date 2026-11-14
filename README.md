@@ -1,1 +1,3 @@
-# Wisp-Browser-
+
+
+Maintenance of Vespera repository for Wisp browser apk 
